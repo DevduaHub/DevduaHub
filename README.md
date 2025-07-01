@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋</h1>
+<h3 align="center">Welcome to my little space on the internet — where I'm learning, building, and having fun along the way 🌱</h3>
 
-<!--
-**DevduaHub/DevduaHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=500&size=21&pause=800&center=true&vCenter=true&width=600&duration=2000&lines=Hello%2C+World+%F0%9F%8C%90;I'm+Dev+Dua+%7C+Curious+and+Code-driven.;Small+Steps+%2B+Big+Dreams+%3D+My+Journey.;Clean+Designs.+Clean+Code.+Clear+Mind." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🙋‍♂️ A Bit About Me
+
+- 🔭 Currently working on **DSA and full-stack development**
+- 🧩 Learning how different tech pieces fit together to make real-world applications
+- ✨ Curious by nature, and I enjoy figuring things out one line of code at a time
+- 📫 Reach me at: [onlydevdua@gmail.com](mailto:onlydevdua@gmail.com)
+
+---
+
+### 💻 Technologies I've Worked With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,cpp,git,github,postman,figma,vscode" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:onlydevdua@gmail.com" title="Send me an email">
+    <img src="https://img.shields.io/badge/Gmail-Email Me!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/dev-dua" target="_blank" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+
+
+
+
+---
+
+### 🌟 Just Me Being Real
+
+> I’m not trying to be perfect. I’m just trying to be better than yesterday - learning, building, and enjoying the process.  
+> If you’re figuring things out too, we’re already on the same team ❤️
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Tech GIF" />
+</p>
+
+
+
+
+---
+
+<h3 align="center">Thanks for stopping by! Let’s keep growing 🚀</h3>
