@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Tech GIF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5xbDh0c2RzcTg3bXhjZmc4aTFzOXd5NTZwZGNueno0OWZ4dzBzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GAeH0yZbyggdq/giphy.gif" width="300" alt="Tech GIF" />
 </p>
 
 
