@@ -14,7 +14,6 @@
 - ✨ Curious by nature, and I enjoy figuring things out one line of code at a time
 - 📫 Reach me at: [onlydevdua@gmail.com](mailto:onlydevdua@gmail.com)
 
----
 
 ### 💻 Technologies I've Worked With
 
@@ -22,32 +21,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,cpp,git,github,postman,figma,vscode" />
 </p>
 
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:onlydevdua@gmail.com" title="Send me an email">
-    <img src="https://img.shields.io/badge/Gmail-Email Me!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/dev-dua" target="_blank" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-
-
-
-
-
----
-
-### 🌟 Just Me Being Real
-
-> I’m not trying to be perfect. I’m just trying to be better than yesterday - learning, building, and enjoying the process.  
-> If you’re figuring things out too, we’re already on the same team ❤️
-
----
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5xbDh0c2RzcTg3bXhjZmc4aTFzOXd5NTZwZGNueno0OWZ4dzBzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GAeH0yZbyggdq/giphy.gif" width="300" alt="Tech GIF" />
@@ -55,7 +28,5 @@
 
 
 
-
----
 
 <h3 align="center">Thanks for stopping by! Let’s keep growing 🚀</h3>
